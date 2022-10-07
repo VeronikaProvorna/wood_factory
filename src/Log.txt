@@ -1,0 +1,6 @@
+30: Timber [wood=Larch, weight()=1728000.0]
+ 01/11/2021 09:24:38
+461: Cilinder [wood=Larch, length=12.0, volume()=1357.168]
+ 01/11/2021 09:24:44
+539: Waste [weight=23.0]
+ 01/11/2021 09:24:50
